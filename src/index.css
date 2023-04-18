@@ -1,0 +1,27 @@
+body{
+  margin: 0;
+}
+nav{
+  height: 55px;
+  background-color:#993b34;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.nav--img{
+  /* margin-left: 213px; */
+  /* margin-top: 16px; */
+  margin-right: 10px;
+}
+
+.nav--text{
+  display: inline-block;
+}
+
+.cards--card{
+  display: flex;
+  justify-content: space-around
+}
+
